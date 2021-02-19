@@ -22,6 +22,11 @@ const songs=[
     displayName: 'Bam Bam',
     artist: 'Ak mishra',
   },
+  {
+    name: '3gana',
+    displayName: 'gana',
+    artist: 'vishal singh',
+  },
   //add other songs if you want//
 ];
 
