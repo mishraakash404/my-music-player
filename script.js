@@ -49,7 +49,7 @@ playBtn.addEventListener('click', () => (isPlaying ? pauseSong() : playSong()));
 //update
 function loadSong(song)
 {
-  title.textContext = song.displayName;
+  title.textContent = song.displayName;
   artist.textContent = song.artist;
   music.src = `music/${song.name}.mp3`;
   image.src = `img/${song.name}.jpg`;
