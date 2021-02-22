@@ -13,6 +13,11 @@ const nextBtn = document.getElementById('next');
 //gaane  
 const songs=[
   {
+    name: '4gana',
+    displayName: 'Loot gae',
+    artist: 'Aman dubey',
+  },
+  {
     name: '1NamoNamo',
     displayName: 'Namo Namo ji shankara',
     artist: 'Ak mishra',
